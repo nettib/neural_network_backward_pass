@@ -14,6 +14,7 @@ A small neural network library built **from scratch with NumPy only**. It comput
 | `results.png` | Decision boundaries and loss curves (linear model vs hidden-layer network) |
 | `paper_trace_1.jpg` | Paper Trace |
 | `paper_trace_1.jpg` | Paper Trace |
+| `Inside the Backward Pass Report` | Report |
 | `README.md` | Readme |
 
 ---
